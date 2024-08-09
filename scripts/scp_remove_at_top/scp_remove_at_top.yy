@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Remove",
-    "path": "folders/Scripts/Remove.yy",
+  "$GMScript":"v1",
+  "%Name":"scp_remove_at_top",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scp_remove_at_top",
+  "parent":{
+    "name":"Remove",
+    "path":"folders/Scripts/Remove.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "scp_remove_at_top",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

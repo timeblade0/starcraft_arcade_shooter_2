@@ -7,6 +7,7 @@ money=10;
 unit_speed=1
 in_orbit=0
 distance=75
+alive=1;
 
 //shot
 alarm[0]=random(50);

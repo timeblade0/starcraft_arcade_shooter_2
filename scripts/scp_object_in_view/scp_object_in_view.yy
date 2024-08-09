@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Views",
-    "path": "folders/Scripts/Views.yy",
+  "$GMScript":"v1",
+  "%Name":"scp_object_in_view",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scp_object_in_view",
+  "parent":{
+    "name":"Views",
+    "path":"folders/Scripts/Views.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "scp_object_in_view",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

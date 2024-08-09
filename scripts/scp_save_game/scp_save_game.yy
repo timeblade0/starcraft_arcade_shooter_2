@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Control",
-    "path": "folders/Scripts/Control.yy",
+  "$GMScript":"v1",
+  "%Name":"scp_save_game",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scp_save_game",
+  "parent":{
+    "name":"Control",
+    "path":"folders/Scripts/Control.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "scp_save_game",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
