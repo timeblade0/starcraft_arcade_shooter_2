@@ -6,14 +6,16 @@
 
 ![Screenshot](https://github.com/timeblade0/starcraft_arcade_shooter/blob/003_SCAS2_GMS/screenshot.jpg)
 
-# Controls Keyboard:
+## Controls Keyboard
+
 - `Arrow Keys`  = move  
 - `Z` = Laser  
 - `A` = Bomb  
 - `Space Bar` = Yamato  
 - `Enter` = pause  
 
-# Controls Gamepad:
+## Controls Gamepad
+
 - `Left Analog` / `Dpad` = move  
 - `A` = Laser  
 - `X` = Bomb  
